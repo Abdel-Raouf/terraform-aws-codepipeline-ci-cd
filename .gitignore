@@ -1,0 +1,10 @@
+# Terraform build
+.terraform
+
+# terraform state
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
+
+# terraform version lock
+.terraform.lock.hcl
