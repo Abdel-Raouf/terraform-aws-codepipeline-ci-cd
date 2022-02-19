@@ -23,7 +23,6 @@
 
 
 ### This is the Full AWS CodePipeline Successfully Deployed:
-![CodeStar Connection](https://github.com/Abdel-Raouf/terraform-aws-codepipeline-ci-cd/blob/master/images/code_star_conn_image.png)
 ![Source Stage](https://github.com/Abdel-Raouf/terraform-aws-codepipeline-ci-cd/blob/master/images/source_stage_image.png)
 ![Plan Stage](https://github.com/Abdel-Raouf/terraform-aws-codepipeline-ci-cd/blob/master/images/plan_stage_image.png)
 ![Approve and Apply stages](https://github.com/Abdel-Raouf/terraform-aws-codepipeline-ci-cd/blob/master/images/approve_and_apply_stage_image.png)
